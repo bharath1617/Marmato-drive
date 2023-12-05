@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Marmato-drive/static/css/main.a90280b0.css",
+    "main.js": "/Marmato-drive/static/js/main.a3d17c84.js",
+    "static/js/787.9a54185e.chunk.js": "/Marmato-drive/static/js/787.9a54185e.chunk.js",
+    "index.html": "/Marmato-drive/index.html",
+    "main.a90280b0.css.map": "/Marmato-drive/static/css/main.a90280b0.css.map",
+    "main.a3d17c84.js.map": "/Marmato-drive/static/js/main.a3d17c84.js.map",
+    "787.9a54185e.chunk.js.map": "/Marmato-drive/static/js/787.9a54185e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a90280b0.css",
+    "static/js/main.a3d17c84.js"
+  ]
+}
